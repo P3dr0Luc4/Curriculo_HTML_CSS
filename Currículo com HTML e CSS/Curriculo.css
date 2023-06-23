@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+}
+
+img{
+    
+    width: 186px;  
+    height: 176px;
+    margin: auto;
+    float: left;
+    position: relative;
+    left: 299px;
+}
+
+table {
+    text-align: left;
+    border: 1px black solid;
+    font-size: 19px;
+    float: left;
+    position: relative;
+    left: 300px;  
+}
+
+th, td {
+    border: 1px black solid;
+}
+
+#email, #linha{
+    color: #4169E1;
+}
+
+p, li {
+    font-size: 17px;
+}
+
+pre{
+    font-size: 15px;
+}
+
+#rodape {
+    text-align: center;
+}
+
+#img
+{
+    background-image: url(foto.jpg);
+}
